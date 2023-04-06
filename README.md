@@ -1,18 +1,20 @@
-### Hi there 👋
+### Hello, Im Kukuri!
+I'm from Thailand. I'm not a very good developer. and my grammar is not very good My alias is Kukuri! This is coding language that i can code is C++, C#, Python, Javascript and HTML, CSS
 
-![Mikasuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikasuru&show_icons=true&theme=radical)
 
-<!--
-**Mikasuru/Mikasuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikasuru&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikasuru&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
 
-Here are some ideas to get you started:
+<br /><br /><br /><br /><br /><br /><br /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### In my future plan
+- 📌: I will become Graphics Designer
+- 📜: I will learn more things about C++ and C#
+
+### My hobbies
+- 🎮: Gaming
+- 📺: Watching Anime (my favorite anime is JoJo and my favorite character is DIO)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
