@@ -7,7 +7,6 @@ I'm from Thailand. I'm not a very good developer. and my grammar is not very goo
 
 ### My hobbies
 - 🎮: Gaming
-- 📺: Watching Anime (my favorite anime is JoJo and my favorite character is DIO)
 
 ### Donate me
 If you want to support me, You can donate me by using this link:
