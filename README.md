@@ -10,5 +10,5 @@ I'm from Thailand. I'm not a very good developer. and my grammar is not very goo
 - 📺: Watching Anime (my favorite anime is JoJo and my favorite character is DIO)
 
 ### Donate me
-If you want to support me, You can donate me by using this like:
+If you want to support me, You can donate me by using this link:
 - https://www.buymeacoffee.com/kukuri
