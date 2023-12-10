@@ -10,7 +10,5 @@ I'm from Thailand. I'm not a very good developer. and my grammar is not very goo
 - 📺: Watching Anime (my favorite anime is JoJo and my favorite character is DIO)
 
 ### Donate me
-To support me you can donate me by using CryptoCurrency
-
-![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white) ERC20: 0x2f7634c73F3be04cC18061CB95879f468e1549c3<br />
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) BTC: bc1qclyhvluwmh6m7ymz06nhat08g4g2yc477cam9r
+If you want to support me, You can donate me by using this like:
+- https://www.buymeacoffee.com/kukuri
