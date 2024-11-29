@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/blue-archive/images/c/c7/Hina_Swimsuit_Portrait.png/revision/latest?cb=20220420072715" width="500" align="right" />
+  
   <h1>I'm Mikasuru</h1>
   <p>You can call me Kukuri. I'm from Thailand</p>
   
@@ -15,7 +15,7 @@
   </br>
   </br>
 
-  
+  <img src="https://static.wikia.nocookie.net/blue-archive/images/c/c7/Hina_Swimsuit_Portrait.png/revision/latest?cb=20220420072715" width="500" align="right" />
   
   <div align="center">
     <p>💻 <strong>I'm currently using Windows as my main OS and my alternative is Arch Linux with Hyprland</strong></p>
