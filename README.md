@@ -1,5 +1,5 @@
 <div>
-<img src="https://static.wikia.nocookie.net/blue-archive/images/c/c7/Hina_Swimsuit_Portrait.png/revision/latest?cb=20220420072715" width="350" align="right" />
+<img src="https://static.wikia.nocookie.net/blue-archive/images/c/c7/Hina_Swimsuit_Portrait.png/revision/latest?cb=20220420072715" width="320" align="right" />
 <br/>
   
 - Im Kukuri (You can call me Mikasuru)<br/>
@@ -22,7 +22,7 @@
 
 <div align="left">
   <img src="images/hina.gif" width="500" /><br/>
-  <sub>*“	Isn't this swimsuit weird...?”*</sub>
+  <sub>“	Isn't this swimsuit weird...?”</sub>
 </div>
 </div>
 
