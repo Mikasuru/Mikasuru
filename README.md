@@ -20,7 +20,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   <img src="images/hina.gif" width="500" /><br/>
   <sub>*“	Isn't this swimsuit weird...?”*</sub>
 </div>
