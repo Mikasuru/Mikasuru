@@ -1,11 +1,12 @@
 <div>
 <img src="https://static.wikia.nocookie.net/blue-archive/images/c/c7/Hina_Swimsuit_Portrait.png/revision/latest?cb=20220420072715" width="320" align="right" />
 <br/>
-  
-- Im Kukuri (You can call me Mikasuru)<br/>
-- I am 17 years old.<br/>
-- I love playing Roblox and Minecraft<br/>
-- I love <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/>
+<div align="center">
+  - Im Kukuri (You can call me Mikasuru)<br/>
+  - I am 17 years old.<br/>
+  - I love playing Roblox and Minecraft<br/>
+  - I love <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/>
+</div>
 <div align="left">
     <a href="https://www.javascript.com/">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
