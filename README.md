@@ -2,7 +2,7 @@
 <img src="https://static.wikia.nocookie.net/blue-archive/images/c/c7/Hina_Swimsuit_Portrait.png/revision/latest?cb=20220420072715" width="320" align="right" />
 <br/>
 <div align="center">
-  - Im Kukuri (You can call me Mikasuru)<br/>
+  - Im Kukuri<br/>
   - I am 17 years old.<br/>
   - I love playing Roblox and Minecraft<br/>
   - I love <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/>
