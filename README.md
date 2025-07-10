@@ -3,7 +3,7 @@
 <img src="https://static.wikia.nocookie.net/blue-archive/images/c/c7/Hina_Swimsuit_Portrait.png/revision/latest?cb=20220420072715" width="350" align="right" style="border-radius:10px;" />
 <br/>
 
-<img src="images/bb.png" width="640" />
+<img src="images/bb.png" width="520" />
 <br/><br/>
 
 - Hello! I'm **Kukuri**, 17 years old
