@@ -28,4 +28,4 @@
 </div>
 
 ## Discord
-<a href="https://discord.com/users/1390890302625284170"><img src="https://lanyard.cnrad.dev/api/591837095954350092?showDisplayName=true" /></a>
+<a href="https://discord.com/users/1390890302625284170"><img src="https://lanyard.cnrad.dev/api/1390890302625284170?showDisplayName=true" /></a>
