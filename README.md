@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://static.wikia.nocookie.net/blue-archive/images/c/c7/Hina_Swimsuit_Portrait.png/revision/latest?cb=20220420072715" width="350" align="right" style="border-radius:10px;" />
+<img src="https://static.wikia.nocookie.net/blue-archive/images/c/c7/Hina_Swimsuit_Portrait.png/revision/latest?cb=20220420072715" width="270" align="right" style="border-radius:10px;" />
 <br/>
 
 <img src="images/bb.png" width="500" />
